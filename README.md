@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, sou Cândido:
 
-<!--
-**Caandido/Caandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Programação | Software Development**
 
-Here are some ideas to get you started:
+Estou desenvolvendo minhas habilidades em programação, com foco em JavaScript, lógica e resolução de problemas. Gosto de construir projetos próprios e explorar diferentes áreas da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Atualmente
+- Desenvolvendo projetos pessoais.
+
+### Interesses
+Software Development · Game Development · AI · Desktop Applications
+
+### Tecnologias
+`Git`,`Vite`, `npm`, `Tailwind CSS`,`NestJS`, `Prisma`,`PostgreSQL`, `Vercel`, `Chrome DevTools`
+
+---
+
+### Linguagem
+`JavaScript`, `TypeScript`, `Python`, `HTML`, `CSS`,`React`, `Node.js`
+
+---
+*Learning, building and improving - one project at a time.*
