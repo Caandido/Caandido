@@ -2,7 +2,7 @@
 
 **Estudante de Programação | Software Development**
 
-Estou desenvolvendo minhas habilidades em programação, com foco em JavaScript, lógica e resolução de problemas. Gosto de construir projetos próprios e explorar diferentes áreas da tecnologia.
+Estou desenvolvendo minhas habilidades em programação. Gosto de construir projetos próprios e explorar diferentes áreas da tecnologia.
 
 ### Atualmente
 - Desenvolvendo projetos pessoais.
